@@ -1,1 +1,1 @@
-its my first proje ct 
+its my first project 
