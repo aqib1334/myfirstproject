@@ -1,2 +1,1 @@
-Student management system
-hello
+its my first proje ct 
